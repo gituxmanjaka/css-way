@@ -1,4 +1,4 @@
-# css-way
+# Integration-way
 Toerana iray natao hamondronana ireo fonctionnalité basique amin'ny css sy js pure.
 Natao hianarana ny base ana integration tsy mampiasa framework
 
